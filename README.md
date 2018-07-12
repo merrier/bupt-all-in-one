@@ -55,20 +55,15 @@ Awesome BUPT Projects：https://github.com/Awesome-BUPT/Awesome-BUPT-Projects，
 
 其实北邮很早之前就有专门的VPN用来访问校内资源，具体配置参考以下PDF：
 
-
+* [北邮vpn用户使用指南(PC版)](https://github.com/merrier/bupt-all-in-one/blob/master/%E5%8C%97%E9%82%AEvpn%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97(PC%E7%89%88).pdf)
+* [北邮vpn用户使用指南(移动设备版)](https://github.com/merrier/bupt-all-in-one/blob/master/%E5%8C%97%E9%82%AEvpn%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97(%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E7%89%88).pdf)
 
 ## 感谢
 
 * [北邮研究生导师口碑榜——学生的视角](https://github.com/wukongbajie/BUPTNiceMentors)
-
 * [BUPTGraduateThesis](https://github.com/rioxwang/BUPTGraduateThesis)
-
 * [buptclass-spider](https://github.com/BUPT-HJM/buptclass)
-
 * [Awesome-BUPT-Projects](https://github.com/Awesome-BUPT/Awesome-BUPT-Projects)
-
 * [北京邮电大学计算机考研信息汇总](https://github.com/ningzimu/See_you_in_BUPT)
-
 * [BUPT-Projects](https://github.com/BOT-Man-JL/BUPT-Projects)
-
 * [北上广深杭租房要点](https://github.com/soulteary/tenant-point)
