@@ -14,30 +14,36 @@ BUPT all in one, always has what you need
 
 > 标签：`自习`、`教室`、`座位`、`猫`
 
-buptclass-spider：https://github.com/BUPT-HJM/buptclass，这是一个爬取北邮本部空闲自习室的爬虫，不过网站访问地址（http://buptclass.com/），已经访问不了了，感兴趣的童鞋自己部署一下吧~
+buptclass-spider：https://github.com/BUPT-HJM/buptclass
+这是一个爬取北邮本部空闲自习室的爬虫，不过网站访问地址（http://buptclass.com/），已经访问不了了，感兴趣的童鞋自己部署一下吧~
 
 ### 代码
 
 > 标签：`代码`、`Code`、`码农`、`工程`、`Project`
 
-Awesome BUPT Projects：https://github.com/Awesome-BUPT/Awesome-BUPT-Projects，此索引为计算机学院本科阶段课程设计相关仓库的整理，不过代码虽好，可不要COPY哦
+Awesome BUPT Projects：https://github.com/Awesome-BUPT/Awesome-BUPT-Projects
+此索引为计算机学院本科阶段课程设计相关仓库的整理，不过代码虽好，可不要COPY哦
 
 ### 毕业
 
 > 标签：`毕业`、`论文`、`模板`、`格式`、`LateX`
 
-论文模板：https://github.com/rioxwang/BUPTGraduateThesis，提供了北京邮电大学研究生学位论文LaTeX文档类，目前已经可以生成除了封面之外的所有论文内容，适用于Windows、Linux和OSX平台
+论文模板：https://github.com/rioxwang/BUPTGraduateThesis
+提供了北京邮电大学研究生学位论文LaTeX文档类，目前已经可以生成除了封面之外的所有论文内容，适用于Windows、Linux和OSX平台
 
 ### 考研
 
 > 标签：`考研`、`研究生`、`导师`
 
 
-关于读研：https://github.com/wukongbajie/BUPTNiceMentors/blob/master/%E5%85%B3%E4%BA%8E%E8%AF%BB%E7%A0%94.markdown，其实我当年就是随大流读的研究生，因为本科玩了4年，感觉不读研找不到好工作，所以就读了；所以对于我来说，研究生算是一次“重读大学”的机会吧。
+关于读研：https://github.com/wukongbajie/BUPTNiceMentors/blob/master/%E5%85%B3%E4%BA%8E%E8%AF%BB%E7%A0%94.markdown
+其实我当年就是随大流读的研究生，因为本科玩了4年，感觉不读研找不到好工作，所以就读了；所以对于我来说，研究生算是一次“重读大学”的机会吧。
 
-北京邮电大学计算机考研信息汇总：https://github.com/ningzimu/See_you_in_BUPT，北京邮电大学计算机考研报考资料、复试资料汇总，同时还有分数线、报录以及真题等信息，信息真的很全
+北京邮电大学计算机考研信息汇总：https://github.com/ningzimu/See_you_in_BUPT
+北京邮电大学计算机考研报考资料、复试资料汇总，同时还有分数线、报录以及真题等信息，信息真的很全
 
-导师推荐：https://github.com/wukongbajie/BUPTNiceMentors，他人推荐，仅供参考；如果导师性格和自己的性格不合，那就是受尽折磨的三年
+导师推荐：https://github.com/wukongbajie/BUPTNiceMentors
+他人推荐，仅供参考；不过如果导师性格和自己的性格不合，那就是受尽折磨的三年
 
 ## 生活
 
@@ -45,7 +51,31 @@ Awesome BUPT Projects：https://github.com/Awesome-BUPT/Awesome-BUPT-Projects，
 
 > 标签：`租房`、`房`、`房租`
 
-北上广深杭租房要点：https://github.com/soulteary/tenant-point，作者对租房中可能遇到的问题和踩的坑进行了总结，个人感觉总结的还是蛮不错的
+北上广深杭租房要点：https://github.com/soulteary/tenant-point
+作者对租房中可能遇到的问题和踩的坑进行了总结，个人感觉总结的还是蛮不错的
+
+### 神器
+
+> 标签：`神器`、`购物`、`宿舍`
+
+淘宝上有一些神器非常实惠好用，推荐给在学校的筒子们：
+
+#### 台灯
+
+#### 床边挂
+
+#### 简易洗衣机
+
+#### 功率转换器
+
+## 游戏
+
+### 部落冲突
+
+> 标签：`部落冲突`、`COC`、`SuperCell`
+
+北邮人有自己的COC部落，而且15级了！！！论坛链接：https://bbs.byr.cn/#!article/OnlineGame/43768
+如果有想要加入的BYR，欢迎添加微信：bupt.Piggy
 
 ## 其他
 
