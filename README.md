@@ -31,10 +31,17 @@ Awesome BUPT Projects：https://github.com/Awesome-BUPT/Awesome-BUPT-Projects
 论文模板：https://github.com/rioxwang/BUPTGraduateThesis
 提供了北京邮电大学研究生学位论文LaTeX文档类，目前已经可以生成除了封面之外的所有论文内容，适用于Windows、Linux和OSX平台
 
+#### 会议列表
+
+如果你是学术型硕士，可能需要一篇小论文才能毕业，而有一些网站提供了国内国际会议/期刊的信息，你可以在这里查看符合你专业的会议列表，以及投稿deadline和通知时间：
+
+- [会伴](https://www.myhuiban.com)
+- [EDAS](http://edas.info/listConferencesSubmit.php)
+- [小木虫](http://muchong.com/bbs/)
+
 ### 考研
 
 > 标签：`考研`、`研究生`、`导师`
-
 
 关于读研：https://github.com/wukongbajie/BUPTNiceMentors/blob/master/%E5%85%B3%E4%BA%8E%E8%AF%BB%E7%A0%94.markdown
 其实我当年就是随大流读的研究生，因为本科玩了4年，感觉不读研找不到好工作，所以就读了；所以对于我来说，研究生算是一次“重读大学”的机会吧。
@@ -58,6 +65,7 @@ Awesome BUPT Projects：https://github.com/Awesome-BUPT/Awesome-BUPT-Projects
 * 如果想找房东直租，最好找同事或者同学推荐的房东，因为有些房东真的比小中介还要坑
 * 一定要给自己留出充足的时间看房子，货比三家的道理大家都懂，不要盲目的交押金/签合同
 * 如果条件允许的话，可以找同学或者认识的同事合租，会省掉很多麻烦
+* 如果在北京租房的话，越老的房子就越容易有虫子、蟑螂之类的，提前做好准备= =
 
 ### 神器
 
@@ -92,6 +100,14 @@ Awesome BUPT Projects：https://github.com/Awesome-BUPT/Awesome-BUPT-Projects
 
 * [北邮vpn用户使用指南(PC版)](https://github.com/merrier/bupt-all-in-one/blob/master/%E5%8C%97%E9%82%AEvpn%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97(PC%E7%89%88).pdf)
 * [北邮vpn用户使用指南(移动设备版)](https://github.com/merrier/bupt-all-in-one/blob/master/%E5%8C%97%E9%82%AEvpn%E7%94%A8%E6%88%B7%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97(%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E7%89%88).pdf)
+
+### 北邮校园网登录插件
+
+buptnet：https://github.com/creaink/buptnet
+
+> 标签：`校园网`、`插件`、`扩展程序`
+
+方便北邮校园网登录的跨浏览器插件，提供保存/切换多账号、查看流量、流量余额提醒等功能
 
 ## 感谢
 
